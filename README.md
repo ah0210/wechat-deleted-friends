@@ -1,3 +1,9 @@
+
+
+原版： https://github.com/0x5e/wechat-deleted-friends
+
+
+
 # wechat-deleted-friends
 查看被删的微信好友
 
